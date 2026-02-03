@@ -54,14 +54,14 @@ I would also like to list some programs which Beginners should implement.
 
 <ol type="1">
   <li>AJAX
-    <ol type="a">
+    <ol type="I">
 	  <li>AJAX Introduction</li>
 	  <li>AJAX Database</li>
 	  <li>XML Applications</li>
 	</ol>
   </li>
   <li>Functions
-    <ol type="a">
+    <ol type="I">
 	  <li>Arguments object</li>
 	  <li>Arrow functions</li>
 	  <li>Default parameters</li>
