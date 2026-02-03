@@ -148,11 +148,12 @@ What will you learn?
 
 In this course, you will learn intermediate programming topics using the latest JavaScript syntax.
 After this course, you will be able to:
-	•	create classes and use inheritance to minimize redundancy
-	•	use JavaScript modules to define reusable logic
-	•	identify the ways currying and hoisting contribute to how JavaScript works under the hood
-	•	write asynchronous JavaScript with promises and async/await
-	•	create calls to various APIs using requests
-	•	identify and handle errors
-	•	understand the concurrency module and event loop in JavaScript
+
+	* create classes and use inheritance to minimize redundancy
+	* use JavaScript modules to define reusable logic
+	* identify the ways currying and hoisting contribute to how JavaScript works under the hood
+	* write asynchronous JavaScript with promises and async/await
+	* create calls to various APIs using requests
+	* identify and handle errors
+	* understand the concurrency module and event loop in JavaScript
 
