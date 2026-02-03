@@ -52,7 +52,7 @@ I would also like to list some programs which Beginners should implement.
 
 ## What should be covered on the Intermediate level of JavaScript?
 
-<ol type="1"
+<ol type="1">
   <li>AJAX
     <ol type="a">
 	  <li>AJAX Introduction</li>
